@@ -30,7 +30,7 @@ namespace Stock
                 if(Convert.ToInt32(DateTime.Today.Day.ToString())<10)
                       fecha = fecha + "0" + DateTime.Today.Day.ToString();
                 else
-                    fecha = fecha + DateTime.Today.Day.ToString();
+                    fecha = fecha + DateTime.Today.Day.ToString(); //Hola
 
             MessageBox.Show(fecha);
             return null;
