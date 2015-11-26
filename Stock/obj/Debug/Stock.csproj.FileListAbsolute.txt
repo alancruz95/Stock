@@ -1,0 +1,9 @@
+c:\users\userlap\documents\visual studio 2013\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\obj\Debug\Stock.frmPrincipal.resources
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\UserLap\Documents\Visual Studio 2013\Projects\Stock\Stock\obj\Debug\Stock.pdb
